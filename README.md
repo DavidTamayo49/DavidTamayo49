@@ -1,14 +1,12 @@
 <h1 align="center">¡Hola! Soy David Tamayo 👋</h1>
 
-<h3 align="center">Estudiante de Ingeniería de Sistemas | Java · Spring Boot · RabbitMQ 
+<h3 align="center">Estudiante de Ingeniería de Sistemas | Java · Spring Boot 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/david-tamayo-dev/">
     <img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/DavidTamayo49">
-    <img src="https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+
   <a href="mailto:davidtama1204@gmail.com">
     <img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -72,13 +70,10 @@
 
 <p>
   <img src="https://img.shields.io/badge/-PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+
   <img src="https://img.shields.io/badge/-POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DavidTamayo49&show_icons=true&theme=radical" alt="David's GitHub stats" />
-</p>
+
